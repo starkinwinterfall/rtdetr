@@ -1,0 +1,7 @@
+train: /root/autodl-tmp/visdrone/VisDrone2019-DET-train
+val: /root/autodl-tmp/visdrone/VisDrone2019-DET-val
+test: /root/autodl-tmp/visdrone/VisDrone2019-DET-test-dev
+# number of classes
+nc: 10
+# class names
+names: ["pedestrain","people","bicycle","car","van","truck","tricycle","awning-tricycle","bus","motor"]
